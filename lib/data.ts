@@ -1,0 +1,17 @@
+export const name = [
+	"Keith",
+	"Ken",
+	"Akai",
+	"Akaiken",
+	"KeithKen",
+	"Edyth",
+	"Itzel",
+	"Domenic",
+	"Garrison",
+	"Rahul",
+	"Florine",
+	"Rowland",
+	"Cordia",
+	"Natasha",
+	"Kendra",
+].map((n) => n.toLowerCase());
